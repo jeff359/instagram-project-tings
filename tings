@@ -1,0 +1,4 @@
+https://eslint.org/docs/user-guide/getting-started// setup eslint
+ "rules": {
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    }// allow jsx in js extension
